@@ -1,2 +1,2 @@
 # Learn-Python-with-CCOC
-Learn python with Creative Code Online Class - Myanmar
+Learn python with Creative Coder Online Class - Myanmar
