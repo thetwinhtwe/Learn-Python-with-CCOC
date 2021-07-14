@@ -1,0 +1,50 @@
+Python 3.8.2 (default, Feb 26 2020, 02:56:10)
+ hello
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'hello' is not defined
+ 'hello'
+'hello'
+ greet='hello'
+ echo greet
+  File "<stdin>", line 1
+    echo greet
+         ^
+SyntaxError: invalid syntax
+ greet[4]
+'o'
+ greet[1]
+'e'
+ greet[-1]
+'o'
+ greet[-5]
+'h'
+ greet[0:3]
+'hel'
+ greet[3:5]
+'lo'
+ greet[2:-1]
+'ll'
+ str1="hey"
+ str2="python"
+ str1+str2
+'heypython'
+ str1+' '+str2
+'hey python'
+ str1*4
+'heyheyheyhey'
+ greet="hello"
+ greet.upper()
+'HELLO'
+ greet
+'hello'
+ greet=greet.upper()
+ greet
+'HELLO'
+ names="aungaung,kyawkyaw,susu"
+ names.split(',')
+['aungaung', 'kyawkyaw', 'susu']
+ greet="hello"
+ len(greet)
+5
+ 
